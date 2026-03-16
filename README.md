@@ -1,4 +1,6 @@
 # Local Console
+> [!IMPORTANT]
+> This repository will be deleted on March 31, 2026
 
 An offline tool to interact with IMX500-equipped smart cameras and develop applications for them. This software provides the following functionalities:
 
